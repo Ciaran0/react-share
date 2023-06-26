@@ -1,6 +1,6 @@
 {
   "name": "@ciaran0/react-share",
-  "version": "4.4.1",
+  "version": "4.4.2",
   "description": "Social media share buttons and share counts for React.",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
